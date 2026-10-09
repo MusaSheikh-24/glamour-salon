@@ -1,0 +1,3 @@
+export const btnGold = "inline-flex min-h-12 items-center justify-center gap-2 bg-gold px-7 text-sm font-medium tracking-wide text-ink transition hover:bg-ivory";
+export const btnLine = "inline-flex min-h-12 items-center justify-center gap-2 border border-gold/60 px-7 text-sm font-medium tracking-wide transition hover:bg-gold hover:text-ink";
+export const h2 = "font-serif text-[clamp(2.2rem,5vw,3.75rem)] font-medium leading-[1.05]";
